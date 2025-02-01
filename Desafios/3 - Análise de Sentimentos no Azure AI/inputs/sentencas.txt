@@ -1,0 +1,9 @@
+Sentença 1 (Negativo):
+"Infelizmente, minha experiência não foi nada boa. Esperei quase uma hora pelo pedido, e quando finalmente chegou, as batatas estavam frias e o lanche veio desmontado. Além disso, o refrigerante estava sem gás. Definitivamente não voltarei."
+
+Sentença 2 (Positiva):
+"A experiência foi excelente! O hambúrguer estava muito saboroso, com um pão super macio e uma carne suculenta no ponto certo. O atendimento também foi muito bom, os funcionários são atenciosos e educados. Com certeza voltarei mais vezes!"
+
+Sentença 3 (Negativo):
+"Fui esperando algo especial, mas me decepcionei. O sanduíche estava seco, sem muito tempero, e o pão parecia meio velho. Além disso, achei os preços um pouco altos para a qualidade oferecida. Não sei se voltaria."
+
