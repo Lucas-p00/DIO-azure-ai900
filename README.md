@@ -11,3 +11,7 @@ Repositório destinado aos desafios e projetos do curso "Microsoft - Fundamentos
 2. **[Reconhecimento Facial](https://github.com/Lucas-p00/DIO-azure-ai900/tree/main/Desafios/2%20-%20Reconhecimento%20Facial%20no%20Azure%20ML)** - Realiza o reconhecimento facial de imagens utilizando o serviço de Visão Computacional Azure.
 
 3. **[Análise de Sentimentos](https://github.com/Lucas-p00/DIO-azure-ai900/tree/main/Desafios/3%20-%20Análise%20de%20Sentimentos%20no%20Azure%20AI)** - Realiza a detecção de sentimentos de um texto utilizando o Language Service.
+
+4. **[Azure Cognitive Search](https://github.com/Lucas-p00/DIO-azure-ai900/tree/main/Desafios/4%20-%20Azure%20Cognitive%20Search)** - Realiza uma pesquisa cognitiva a partir de documentos enviados.
+
+5. **[IA Generativa com Copilot e OpenAI](https://github.com/Lucas-p00/DIO-azure-ai900/tree/main/Desafios/5%20-%20IA%20Generativa%20com%20Copilot%20e%20OpenAI)** - Explora os principais recursos de ferramentas de IA Generativa.
